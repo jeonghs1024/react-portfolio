@@ -1,0 +1,23 @@
+.nav {
+    padding-right: 34px;
+    padding-top: 3px;
+    padding-left: 15px;
+}
+
+.stick {
+    position: sticky;
+    top: 10px;
+    z-index: 1;
+}
+
+.link:hover {
+    color: orange;
+}
+
+.link {
+    font: 18px 'Roboto', sans-serif;
+    color: #23232D;
+    line-height: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
