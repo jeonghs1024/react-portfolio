@@ -15,6 +15,7 @@ const About = () => {
   }, []);
 
   return (
+    <div className='about-container'>
     <div id='about'>
       <div className='left'>
         <div className='img-card'>
@@ -28,8 +29,11 @@ const About = () => {
       <div data-aos='fade-down' className='right'>
         <h1 className='title'>About Me</h1>
         <p className='description'>
-          blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-          blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
+        A software developer, always eager to learn more, being able
+to effectively self-manage during independent projects and ready to
+develop real-world applications. Being a solid person equipped with
+great programming skills, mindset and phenomenal built projects, I am
+seeking career opportunities as a software engineer.
         </p>
 
         <div
@@ -49,6 +53,7 @@ const About = () => {
           <AiFillGithub size={70} />
         </div>
       </div>
+    </div>
     </div>
   );
 };
