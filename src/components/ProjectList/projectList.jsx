@@ -23,9 +23,10 @@ const ProjectList = () => {
       link: 'https://www.yosoysauceatx.com/',
     },
     {
-      name: 'Java Swing Map',
-      img: 'java_map',
-      github: 'https://github.com/jeonghs1024/JavaSwingMap',
+      name: 'Sheep Animation',
+      img: 'sheepa',
+      link: 'https://jeonghs1024.github.io/sheep/',
+      github: 'https://github.com/jeonghs1024/sheep',
     },
     {
       name: 'Weather Dashboard',
@@ -34,9 +35,8 @@ const ProjectList = () => {
       github: 'https://github.com/jeonghs1024/weather-dashboard',
     },
     {
-      name: 'whatever',
-      img: 'weather_dashboard',
-      link: 'https://jeonghs1024.github.io/weather-dashboard/',
+      name: 'Java Swing Map',
+      img: 'java_map',
       github: 'https://github.com/jeonghs1024/JavaSwingMap',
     },
   ]);
