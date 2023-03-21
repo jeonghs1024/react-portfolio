@@ -8,8 +8,8 @@ const ProjectList = () => {
     {
       name: 'Travel Planner Bot',
       img: 'chat_planner',
-      link: 'https://jeonghs1024.github.io/travel_planner_bot/',
-      github: 'https://github.com/jeonghs1024/chatbot-planner',
+      link: 'https://jeonghs1024.github.io/travel-planner/',
+      github: 'https://github.com/jeonghs1024/travel-planner',
     },
     {
       name: 'Music Venue App',
