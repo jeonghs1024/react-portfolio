@@ -8,7 +8,7 @@ const ProjectList = () => {
     {
       name: 'Travel Planner Bot',
       img: 'chat_planner',
-      link: 'https://jeonghs1024.github.io/travel-planner/',
+      link: 'https://travelplannerbot.herokuapp.com/',
       github: 'https://github.com/jeonghs1024/travel-planner',
     },
     {
