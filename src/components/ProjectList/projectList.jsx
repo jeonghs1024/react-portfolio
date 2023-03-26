@@ -14,7 +14,7 @@ const ProjectList = () => {
     {
       name: 'Music Venue App',
       img: 'venuebuddy',
-      link: 'https://jeonghs1024.github.io/Venue-Buddy/',
+      link: 'https://venue-buddy.herokuapp.com/',
       github: 'https://github.com/jeonghs1024/Venue-Buddy',
     },
     {
