@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5074f321.css",
-    "main.js": "/react-portfolio/static/js/main.58c90c61.js",
+    "main.js": "/react-portfolio/static/js/main.54ce65bf.js",
     "static/media/yosoysauce.png": "/react-portfolio/static/media/yosoysauce.86f8a05526ef0b224e6d.png",
     "static/media/weather_dashboard.png": "/react-portfolio/static/media/weather_dashboard.cde28715ac501b48334f.png",
     "static/media/java_map.png": "/react-portfolio/static/media/java_map.40e6ec689027c988c3af.png",
-    "static/media/venuebuddy.png": "/react-portfolio/static/media/venuebuddy.b345bddcd9922f57f64b.png",
+    "static/media/venuebuddy.png": "/react-portfolio/static/media/venuebuddy.f88eceb3c5d0edcba22b.png",
     "static/media/chat_planner.png": "/react-portfolio/static/media/chat_planner.038e6b29a2c63f62dbf5.png",
     "static/media/sheepa.png": "/react-portfolio/static/media/sheepa.56303e9884dd9cd9a0ed.png",
     "static/media/mecoding.jpg": "/react-portfolio/static/media/mecoding.76a169b1cbc6a34aab7f.jpg",
     "static/media/me.png": "/react-portfolio/static/media/me.7aef2d1abe33a20df37e.png",
     "index.html": "/react-portfolio/index.html",
     "main.5074f321.css.map": "/react-portfolio/static/css/main.5074f321.css.map",
-    "main.58c90c61.js.map": "/react-portfolio/static/js/main.58c90c61.js.map"
+    "main.54ce65bf.js.map": "/react-portfolio/static/js/main.54ce65bf.js.map"
   },
   "entrypoints": [
     "static/css/main.5074f321.css",
-    "static/js/main.58c90c61.js"
+    "static/js/main.54ce65bf.js"
   ]
 }
