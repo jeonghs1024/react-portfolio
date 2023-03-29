@@ -1,67 +1,71 @@
-.card-wrapper{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    max-width: 1280px;
-    margin:auto;
+.card-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1280px;
+  margin: auto;
 }
 
 .card {
- width: 48vh;
- height: 34vh;
+  width: 48vh;
+  height: 34vh;
 }
 
 .projects {
-    width: 84%;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
+  width: 84%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
 }
 
-.project{
-    border: 2px solid black;
-    border-radius: 10px 10px 10px 10px;
-    background-color: black;
-    text-align: center;
-    color: orange;
-    height: 32.3vh;
-    overflow: hidden;
-    margin-bottom: 3%;
+.project {
+  border: 2px solid black;
+  border-radius: 10px 10px 10px 10px;
+  background-color: black;
+  text-align: center;
+  color: orange;
+  height: 32.3vh;
+  overflow: hidden;
+  margin-bottom: 3%;
 }
 
 .project-title {
-    padding-top: 3px;
-    font-size: 50px;
-    font-weight: 600;
-    color: orange;
-    margin: auto;
-    margin-bottom: 4%;
-    margin-top: 2%;
+  padding-top: 3px;
+  font-size: 50px;
+  font-weight: 600;
+  color: orange;
+  margin: auto;
+  margin-bottom: 4%;
+  margin-top: 2%;
 }
 
 .browser {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .ptitle {
-    flex-basis: 90%;
+  flex-basis: 90%;
 }
 
 .circle {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background-color: white;
-    margin: 5px 0px 0px 3px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 5px 0px 0px 3px;
 }
 
 .demo-github {
-    width: 48vh;
-    height: 34vh;
-    background-color: rgba(69, 69, 69, 0.662);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 48vh;
+  height: 34vh;
+  background-color: rgba(69, 69, 69, 0.662);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.demo-github a:hover .MuiSvgIcon-root {
+  transform: scale(1.2);
 }
