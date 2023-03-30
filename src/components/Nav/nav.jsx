@@ -42,7 +42,7 @@ export default function nav() {
           underline='hover'
           color='text.primary'
           target='_blank'
-          href='https://www.docdroid.net/MoV9vnE/maxresume-pdf'
+          href='https://www.docdroid.net/VqiRojI/haeresume-pdf'
         >
           Resume
         </a>
